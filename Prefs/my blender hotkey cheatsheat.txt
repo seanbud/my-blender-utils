@@ -1,0 +1,75 @@
+blender hotkeys
+----------------
+
+shift + r : repeat last action
+g -> g  : edge slide
+
+w -> : remove doubles
+
+s -> (z) : scale along the GLOBAL axis.
+s -> (z)->(z) : scale along the LOCAL axis.
+s -> (z) -> 0 : set selected edge to be completely horizontal, or vertical, etc. 
+
+
+alt + ctrl + click : select edge ring
+(while selecting a start pos)
+	->  ctrl click : shortest path select
+
+
+w->loop tools (enabled in addons) -> relax: straightens/aligns a set of verticies.
+	alternatively, use 'Gstretch'.
+	
+alt + e -> extra extrude options
+
+ctrl + shift + b -> boolean workflow options ( with addon object boolean tools enabled)
+
+
+ Interface::
+ =============
+
+T : toolbar 
+N : sidebar props
+
+
+
+ Node Editor::
+ =============
+ 
+ 
+ctrl click to cut lines
+ctrl + right click to draw new lines
+ 
+shift+A -> (s) : add, then enter the search field.
+ ctrl + f -> also search fields
+
+space + 'toggle node options' to make smaller.
+ 
+ctrl + j : frame it
+	alt+shift+ l : rename it
+
+
+ Sculpt Mode::
+ ==========
+
+		 click : add
+[ctrl] + click : subtract
+[shift] + click: smooth
+
+
+		  F : change brush SIZE
+[shift] + F : change brush STRENGTH
+
+
+
+
+ 
+ my own keybinds
+ ==============
+ 
+	search for "select mode", and rebind (when using emulate numpad).
+		alt+numpad 1 : select verticies
+		alt+numpad 2 : select edge
+		alt+numpad 3 : select face
+		
+		
+		"toggle node options", and possibly rebind to alt+o
