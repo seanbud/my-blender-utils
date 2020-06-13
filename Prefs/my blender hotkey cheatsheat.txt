@@ -1,6 +1,6 @@
 blender hotkeys
 ----------------
-
+shift + c : cursor to world origin
 shift + r : repeat last action
 g -> g  : edge slide
 
