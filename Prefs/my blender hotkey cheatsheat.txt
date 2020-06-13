@@ -1,6 +1,6 @@
 blender hotkeys
 ----------------
-shift + c : cursor to world origin
+
 shift + r : repeat last action
 g -> g  : edge slide
 
@@ -44,9 +44,13 @@ shift+A -> (s) : add, then enter the search field.
 
 space + 'toggle node options' to make smaller.
  
+ctrl + T [You must select the shader first] -> 
+ 
+ 
 ctrl + j : frame it
 	alt+shift+ l : rename it
 
+ctrl + shift + rightclick : mix nodes
 
  Sculpt Mode::
  ==========
