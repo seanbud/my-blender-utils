@@ -65,6 +65,14 @@ ctrl + shift + rightclick : mix nodes
 
 
 
+ Texture Paint Mode::
+ ==========
+
+F : change brush SIZE
+[shift] + F : change brush OPACITY
+[shift] + S : toggle "stabilize stroke" the line drawing tool
+		
+
 
  
  my own keybinds
